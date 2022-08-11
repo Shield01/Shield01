@@ -11,7 +11,7 @@ I’m a Software Developer based in Lagos, Nigeria. I'm passionate about sharing
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I could be the MC of your party
 - 🌱 I’m currently solidity
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 😊 I’m looking for help with open source projects, hackathons, intermediary, and senior-level opportunities.
 - 💼 Job interests: Software Engineer (Intermediary or Senior level).
 - 📫 You can [view my resume](#) and contact me by emailing husseintijani2017@gmail.com.
 
