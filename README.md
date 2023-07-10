@@ -27,4 +27,7 @@ I am Hussein Tijani. A Software Engineer based in Lagos, Nigeria. I am passionat
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Importance of Inclusion and Representation in the Tech Industry](https://dtechbroindoor.hashnode.dev/importance-of-inclusion-and-representation-in-the-tech-industry)
+- [Arrays with JavaScript - 2](https://dtechbroindoor.hashnode.dev/arrays-with-javascript-2)
+- [Arrays with JavaScript](https://dtechbroindoor.hashnode.dev/arrays-with-javascript)
 <!-- BLOG-POST-LIST:END -->
