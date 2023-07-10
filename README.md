@@ -69,3 +69,8 @@ I am Hussein Tijani. A Software Engineer <img src="https://media.giphy.com/media
 - [Arrays with JavaScript - 2](https://dtechbroindoor.hashnode.dev/arrays-with-javascript-2)
 - [Arrays with JavaScript](https://dtechbroindoor.hashnode.dev/arrays-with-javascript)
 <!-- BLOG-POST-LIST:END -->
+---
+### 🤡: Jokes Of The Day:
+| ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0) | <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
+| ------------- | ------------- |
+---
