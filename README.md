@@ -65,6 +65,7 @@ I am Hussein Tijani. A Software Engineer <img src="https://media.giphy.com/media
 ### :writing_hand: My Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Views: The Foundation of iOS App Interfaces](https://dtechbroindoor.hashnode.dev/views-the-foundation-of-ios-app-interfaces)
 - [Importance of Inclusion and Representation in the Tech Industry](https://dtechbroindoor.hashnode.dev/importance-of-inclusion-and-representation-in-the-tech-industry)
 - [Arrays with JavaScript - 2](https://dtechbroindoor.hashnode.dev/arrays-with-javascript-2)
 - [Arrays with JavaScript](https://dtechbroindoor.hashnode.dev/arrays-with-javascript)
