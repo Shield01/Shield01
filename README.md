@@ -21,7 +21,7 @@
 
 ### :man_technologist: About Me :
 
-I am Hussein Tijani. A Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Lagos, Nigeria. I am passionate about software engineering, knowledge sharing, building products, music and anime. My area of expertise encompasses the entire product development phase. My major languages are JavaScript, Python and C#, and I love to build backend services
+I am Hussein Tijani. A Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Lagos, Nigeria. I am passionate about software engineering, knowledge sharing, building products, music and anime. My area of expertise encompasses the entire product development phase. My major languages are JavaScript, Python, Swift and C#, and I love to build life changing software.
 
 
 **Here's a quick summary about me**:
@@ -29,7 +29,7 @@ I am Hussein Tijani. A Software Engineer <img src="https://media.giphy.com/media
 - 💡 Fun fact: I could be the MC of your party
 - 🤓 Interests: Interested in open-source projects, hackathons, and mid-senior-level software engineering opportunities.
 - 📚 Learning: Currently learning Solidity
-- 💼 Job interests: Software Engineer(Backend).
+- 💼 Job interests: Software Engineer.
 <!--- - 💼 Resume: [My Resume](https://docs.google.com/document/d/1JSPYI_2ly4IA86v2ezextGg3LxdleBIItvcTNe2S9xk/edit?usp=sharing) --->
   
 **👥 Send me a message if you'd like to connect, I know a little about a number of things so I can hold a decent conversation.**
@@ -62,7 +62,7 @@ I am Hussein Tijani. A Software Engineer <img src="https://media.giphy.com/media
 | ------------- | ------------- | ------------- |
 
 ---
-### :writing_hand: My Blog Posts :
+### :writing_hand: My Recent Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
 - [Demystifying Initializers in Swift Programming](https://dtechbroindoor.hashnode.dev/demystifying-initializers-in-swift-programming)
