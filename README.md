@@ -33,7 +33,7 @@ I am Hussein Tijani. A Software Engineer <img src="https://media.giphy.com/media
 <!--- - 💼 Resume: [My Resume](https://docs.google.com/document/d/1JSPYI_2ly4IA86v2ezextGg3LxdleBIItvcTNe2S9xk/edit?usp=sharing) --->
   
 **👥 Send me a message if you'd like to connect, I know a little about a number of things so I can hold a decent conversation.**
-- 🙎🏾‍♂ LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-husseintijani-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tijanihussein)](https://www.linkedin.com/in/tijanihussein)
+<!--- - 🙎🏾‍♂ LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-husseintijani-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tijanihussein)](https://www.linkedin.com/in/tijanihussein) --->
 - 🧙🏽‍♂ Twitter: [![Twitter Badge](https://img.shields.io/badge/-@DTechBroIndoor-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/DTechBroIndoor)](https://twitter.com/DTechBroIndoor)
 - 💌 Email: [![Gmail_Badge](https://img.shields.io/badge/-husseintijani-white?style=for-the-badge&logo=Gmail&logoColor=red&link=mailto:husseintijani2017@gmail.com)](mailto:husseintijani2017@gmail.com)
 ---
